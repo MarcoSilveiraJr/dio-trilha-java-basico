@@ -1,8 +1,11 @@
 public class Operadores {
     public static void main(String[] args) {
-        String nomeCompleto = "Linguagem" + "Java";
+        int numero = 5;
 
-        System.out.println(nomeCompleto);
+        numero++;
+        
+
+        System.out.println(numero);
     }
 
 }
